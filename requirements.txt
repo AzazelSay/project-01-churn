@@ -1,0 +1,19 @@
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyter==1.1.1
+ipykernel==6.29.5
+joblib==1.4.2
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# pandas — таблицы
+# numpy — массивы и вычисления
+# scikit-learn — ML
+# matplotlib, seaborn — графики
+# jupyter — ноутбуки
+# ipykernel — чтобы окружение работало как kernel для Jupyter
+# joblib — сохранение модели
+# fastapi, uvicorn — API
